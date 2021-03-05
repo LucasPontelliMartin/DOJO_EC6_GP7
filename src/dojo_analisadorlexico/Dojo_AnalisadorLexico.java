@@ -39,7 +39,7 @@ private static String readFile() throws FileNotFoundException{
 
 String conteudo = null;
 
-File texto = new File ("C:\\Users\\Pc\\Desktop\\DOJO\\CodigoFonte_JS.txt");
+File texto = new File ("CodigoFonte_JS.txt");
 Scanner myReader = new Scanner(texto);
         
 
